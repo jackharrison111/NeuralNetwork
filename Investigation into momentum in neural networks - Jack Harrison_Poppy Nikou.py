@@ -2,7 +2,7 @@
 """
 Created on Sun Oct 20 20:29:16 2019
 
-This file contains the code used in the COMP61011 final project.
+This file contains the code used in the COMP61011 final project. By requirement all code had to run within one file, in order to reproduce results in the report.
 
 The project investigated the effect of classical momentum and Nesterov advanced
 gradient on the convergence time of a multi-layered neural network.
