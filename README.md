@@ -1,4 +1,4 @@
-A repo to store the python project for the ML course, carried out collaboratively with Poppy Nikou.
+A repo to store the project for the COMP61011 ML course, carried out collaboratively with Poppy Nikou.
 
 An artificial neural network is created from scratch, using different gradient descent algorithms to compare their properties.
 
